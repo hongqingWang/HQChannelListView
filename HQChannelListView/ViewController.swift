@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
         navigationItem.title = "王红庆"
         view.backgroundColor = UIColor.white
-        
+        print("aaa")
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(popToChannelListViewController))
     }
     
