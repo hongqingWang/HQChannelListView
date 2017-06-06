@@ -397,4 +397,4 @@
 
 > 以上是我个人的一些总结，我相信一定还有我自己没有注意到的地方存在问题。欢迎各位给我提宝贵意见。我会积极改正的！！！
 
-**DEMO传送门：[DEMO](https://github.com/hongqingWang/HQChannelListView)**
+**简书地址：[Swift-低仿搜狐新闻标签页效果](http://www.jianshu.com/p/49cf4cece53c)**
