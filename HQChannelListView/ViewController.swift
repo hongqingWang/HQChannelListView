@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("aaa")
         navigationItem.title = "王红庆"
         view.backgroundColor = UIColor.white
         
