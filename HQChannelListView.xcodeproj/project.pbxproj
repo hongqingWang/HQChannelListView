@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		180CCCB91EF3B39800DFC405 /* HQChannelListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180CCCB81EF3B39800DFC405 /* HQChannelListViewController.swift */; };
+		180CCCBC1EF3B92D00DFC405 /* HQChannelListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180CCCBB1EF3B92D00DFC405 /* HQChannelListViewController.swift */; };
 		1858F7B61EDFE6EE00F853FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1858F7B51EDFE6EE00F853FB /* AppDelegate.swift */; };
 		1858F7B81EDFE6EE00F853FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1858F7B71EDFE6EE00F853FB /* ViewController.swift */; };
 		1858F7BB1EDFE6EE00F853FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1858F7B91EDFE6EE00F853FB /* Main.storyboard */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		180CCCB81EF3B39800DFC405 /* HQChannelListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HQChannelListViewController.swift; sourceTree = "<group>"; };
+		180CCCBB1EF3B92D00DFC405 /* HQChannelListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HQChannelListViewController.swift; sourceTree = "<group>"; };
 		1858F7B21EDFE6EE00F853FB /* HQChannelListView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HQChannelListView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1858F7B51EDFE6EE00F853FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1858F7B71EDFE6EE00F853FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -37,12 +37,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		180CCCB71EF3B39800DFC405 /* HQChannelListView */ = {
+		180CCCBA1EF3B92D00DFC405 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				180CCCB81EF3B39800DFC405 /* HQChannelListViewController.swift */,
+				180CCCBB1EF3B92D00DFC405 /* HQChannelListViewController.swift */,
 			);
-			path = HQChannelListView;
+			path = Source;
 			sourceTree = "<group>";
 		};
 		1858F7A91EDFE6EE00F853FB = {
@@ -66,8 +66,8 @@
 			children = (
 				1858F7B51EDFE6EE00F853FB /* AppDelegate.swift */,
 				1858F7B71EDFE6EE00F853FB /* ViewController.swift */,
+				180CCCBA1EF3B92D00DFC405 /* Source */,
 				1858F7B91EDFE6EE00F853FB /* Main.storyboard */,
-				180CCCB71EF3B39800DFC405 /* HQChannelListView */,
 				1858F7BC1EDFE6EE00F853FB /* Assets.xcassets */,
 				1858F7BE1EDFE6EE00F853FB /* LaunchScreen.storyboard */,
 				1858F7C11EDFE6EE00F853FB /* Info.plist */,
@@ -149,7 +149,7 @@
 			files = (
 				1858F7B81EDFE6EE00F853FB /* ViewController.swift in Sources */,
 				1858F7B61EDFE6EE00F853FB /* AppDelegate.swift in Sources */,
-				180CCCB91EF3B39800DFC405 /* HQChannelListViewController.swift in Sources */,
+				180CCCBC1EF3B92D00DFC405 /* HQChannelListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
